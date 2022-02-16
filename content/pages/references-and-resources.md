@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: References and Resources
 uid: 194a0a2f-dc22-37f9-b41d-c8137e67e435
 ---
