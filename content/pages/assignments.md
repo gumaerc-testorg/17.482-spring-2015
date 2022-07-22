@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the term paper assignment, mid-term
+  exam, and final exam of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5254f9f3-d9c5-8a13-423d-3631a9b5d18e
 ---
@@ -26,4 +31,4 @@ The paper will be due in stages:
 *   a detailed outline due during Week 8
 *   the final paper due during Week 11
 
-See [References and Resources]({{< baseurl >}}/pages/references-and-resources) for examples, similar work, and research ideas for the paper.
+See {{% resource_link 194a0a2f-dc22-37f9-b41d-c8137e67e435 "References and Resources" %}} for examples, similar work, and research ideas for the paper.
