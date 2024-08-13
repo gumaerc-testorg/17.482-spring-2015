@@ -33,7 +33,7 @@ O'Hanlon, Michael E. *The Science of War: Defense Budgeting, Military Technology
 
 "[Long Term Implications of the 2014 Future Years Defense Program](https://www.cbo.gov/publication/44683)." Congressional Budget Office (2013): 1–4.
 
-U.S. Department of Defense. "[Executive Summary](http://archive.defense.gov/Home/features/2014/0314_sdr/qdr.aspx)." Quadrennial Defense Review (2014): iiixv.
+U.S. Department of Defense. "Executive Summary." In [*Quadrennial Defense Review* (2014): iiixv. (PDF)](https://www.acq.osd.mil/ncbdp/docs/2014_Quadrennial_Defense_Review.pdf)
 
 "[Sustaining U.S. Global Leadership: Priorities for 21st Century Defense](http://www.academia.edu/6030032/Sustaining_U.S_Global_Leadership_Priorities_For_21st_Century_Defense)." U.S. Department of Defense Strategic Guidance (2012): 1–8.
 
@@ -47,7 +47,7 @@ Landler, Mark. "[Fruitful Visit by Obama Ends With a Lecture From Xi](http://www
 
 **Recommended**
 
-Students should get to know both the [Pentagon](http://www.defense.gov/) and [Congressional Budget Office](http://www.cbo.gov/) websites.    
+Students should get to know both the [Pentagon](http://www.defense.gov/) and [Congressional Budget Office](http://www.cbo.gov/) websites.     
 Both are important sources of information for this course.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -68,8 +68,8 @@ Brooks, Stephen G., G. John Ikenberry, et al. "[Lean Forward: In Defense of Amer
 
 Slaughter, Anne-Marie, Bruce W. Jentleson, et al. "[Strategic Leadership: Framework for a 21st Century National Security Strategy](http://www.cnas.org/publications/reports/strategic-leadership-framework-for-a-21st-century-national-security-strategy#.Vea8rZcXu74)." *Center for a New American Security* (2008): 9–32.
 
-Compare:    
-["National Security Strategy of the United States of America." (PDF)](http://www.state.gov/documents/organization/63562.pdf) 2002.    
+Compare:     
+["National Security Strategy of the United States of America." (PDF)](http://www.state.gov/documents/organization/63562.pdf) 2002.     
 ["National Security Strategy of the United States of America." (PDF 1.5MB)](https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf) 2010.
 
 **Recommended**
@@ -78,7 +78,7 @@ Compare:  
 
 Gaddis, John Lewis. Chapters 2 and 12 in *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](http://books.google.com/books?id=IMB3ibWy2CkC&pg=PAfrontcover)\]
 
-Slaughter, Anne-Marie, and G. John Ikenberry. "[Forging a World of Liberty under Law, Final Report of the Princeton Project on National Security in the 21st Century - Final Report of the Princeton Project on National Security](https://www2.world-governance.org/IMG/pdf_080_Forging_a_world_of_liberty_under_law.pdf)." *Council on Foreign Relations Events* (2006): 11–61.
+Slaughter, Anne-Marie, and G. John Ikenberry. ["Forging a World of Liberty under Law, Final Report of the Princeton Project on National Security in the 21st Century - Final Report of the Princeton Project on National Security." (PDF)](https://dml.armywarcollege.edu/wp-content/uploads/2023/01/Princeton-Project-Report-National-Security-in-21st-Century.pdf) *Council on Foreign Relations Events* (2006): 11–61.
 
 Brooks, Stephen G., G. John Ikenberry, et al. "[Don't Come Home America: The Case against Retrenchment](http://dx.doi.org/10.1162/ISEC_a_00107)." *International Security* 37, no. 3 (2012 / 13): 7–51.
 
@@ -224,7 +224,7 @@ Hastings, Max, and Simon Jenkins. *The Battle for the Falklands*. Book Club Asso
 
 Admiral (retired), and Sandy Woodward. *One Hundred Days: The Memoirs of the Falklands Battle Group Commander*. Naval Institute Press, 1997, pp. 1–22 and 146–64. ISBN: 9781557506528.
 
-Jewell, Angelyn, et al. "[USS Nimitz and Carrier Airwing Nine Surge Demonstration](https://apps.dtic.mil/dtic/tr/fulltext/u2/a362472.pdf)." Center for Naval Analyses Alexandria, VA (1998): 3–13, 25–29, and 121–49.
+Jewell, Angelyn, et al. ["USS Nimitz and Carrier Airwing Nine Surge Demonstration." (PDF)](https://apps.dtic.mil/sti/tr/pdf/ADA362472.pdf) Center for Naval Analyses Alexandria, VA (1998): 3–13, 25–29, and 121–49.
 
 Rubel, Robert C. ["The Future of Aircraft Carriers." (PDF)](https://apps.dtic.mil/sti/pdfs/ADA619261.pdf) *Naval War College Review* 64, no. 4 (2011): 13–27.
 
@@ -298,7 +298,7 @@ Keaney, Thomas A. "[The Linkage of Air and Ground Power in the Future of Conflic
 
 Fontenot, Gregory, E. J. Degen, and David Tohn. Chapters 3–6 in *On Point: The United States Army in Operation Iraqi Freedom*. Combat Studies Institute, 2004. (Skim these pages to get a sense of how the campaign unfolded. Also review maps and other graphics in these sections.)
 
-Moseley, Michael. ["Operation Iraqi Freedom: By the Numbers." (PDF)](http://www.afhso.af.mil/shared/media/document/AFD-130613-025.pdf) U.S. Air Force Assessment and Analysis Division (2003).
+Moseley, Michael. ["Operation Iraqi Freedom: By the Numbers." (PDF)](https://www.globalsecurity.org/military/library/report/2003/uscentaf_oif_report_30apr2003.pdf) U.S. Air Force Assessment and Analysis Division (2003).
 
 Cohen, Eliot. "[Change and Transformation in Military Affairs](http://dx.doi.org/10.1080/1362369042000283958)." *Journal of Strategic Studies* 27, no. 3 (2004): 395–407.
 
